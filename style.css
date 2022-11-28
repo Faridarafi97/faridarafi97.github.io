@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #252525;
+  color: aliceblue;
+}
+
+#projects {
+  background-color: #252525;
+  color: aliceblue;
+}
+
+.card-text {
+  color: #252525;
+}
+
+section {
+  padding-top: 5rem;
+}
